@@ -67,6 +67,7 @@ settlement
 exchange  
 record generation  
 TxID  
+Tax   
 fintech  
 blockchain  
 Web3  
