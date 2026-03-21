@@ -33,6 +33,12 @@ It is designed to help visualize:
 - This is a **conceptual simulator**, not a production payment system.
 - It is provided for **research, demonstration, and explanatory purposes**.
 - The simulator is aligned with the theoretical SER coupling model described in the paper and does not claim exclusivity or production completeness.
+  
+## Live Demo
+
+A simple reference simulator for the SER coupling lifecycle:
+
+https://bitmo33.github.io/dnet-ser-coupling-simulator/
 
 ## Related Paper
 
