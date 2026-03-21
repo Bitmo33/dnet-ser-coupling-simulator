@@ -75,6 +75,8 @@ stablecoin
 BlockDAG  
 Kaspa  
 cashless payments  
+AI
+AI Payments
 Kaspa Pay®
 
 ## Reference Context
