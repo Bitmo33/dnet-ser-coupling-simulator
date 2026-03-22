@@ -57,6 +57,13 @@ https://bitmo33.github.io/dnet-ser-coupling-simulator/
 
 **DNET: An Interface Architecture for Settlement–Exchange–Record Coupling in Digital Payments**
 
+## Reference Implementation
+
+This repository includes a minimal reference implementation for the SER coupling architecture:
+
+- **API_SPEC.md** — API-level specification of the transaction lifecycle  
+- **sdk-sample.ts** — Simple SDK-style example showing how the interface may be used
+
 ## Keywords
 
 SER coupling  
