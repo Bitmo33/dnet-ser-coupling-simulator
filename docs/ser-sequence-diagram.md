@@ -23,8 +23,7 @@ sequenceDiagram
     E->>R: Pass exchange output
     R->>R: Generate compliance-ready record
     R-->>U: Return final transaction record
-
-
+```
 Description
 
 The reference lifecycle is structured as follows:
