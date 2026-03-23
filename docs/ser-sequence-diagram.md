@@ -24,15 +24,18 @@ sequenceDiagram
     R->>R: Generate compliance-ready record
     R-->>U: Return final transaction record
 ```
-Description
+##Description
 
 The reference lifecycle is structured as follows:
-	1.	Settlement (S)
+
+1.	Settlement (S)
 A payment request is initiated and a settlement context is created.
-	2.	Exchange (E)
+
+2.	Exchange (E)
 The settled asset context is used to resolve an exchange result,
 including the exchange rate and resulting output asset amount.
-	3.	Record (R)
+
+3.	Record (R)
 A transaction record is generated using the settlement and exchange
 outputs, including data relevant to traceability, audit, and
 compliance-oriented record generation.
@@ -44,7 +47,10 @@ All stages are linked under a common transaction identifier (TxID).
 This allows the transaction lifecycle to be treated as one coupled state
 rather than as unrelated events.
 
-Notes
-•　This diagram is a conceptual reference.
-•　It is provided for research and explanatory purposes.
-•　It does not represent production infrastructure or a mandatory implementation.
+Notes　
+
+This diagram is a conceptual reference.
+
+It is provided for research and explanatory purposes.
+
+It does not represent production infrastructure or a mandatory implementation.
