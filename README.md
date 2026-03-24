@@ -1,6 +1,5 @@
-DNET® (Digital network Exchange Technology)
 
-Reference simulator for the SER (Settlement–Exchange–Record) coupling model described in the DNET® architecture paper.
+Reference simulator for the SER (Settlement–Exchange–Record) coupling model described in the DNET® (Digital Network Exchange Technology) architecture paper.
 
 # DNET® SER Coupling Simulator
 
